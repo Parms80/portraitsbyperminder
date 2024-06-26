@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8aDqx1Fj2/CmKfiPewcBAl+J/gFYxWXyrOhZkpSUPno=",
+  "Hash": "YsH5eXSU9/TKJjKZnjp58DN53XPv640QLtqg2kURwz4=",
   "Source": "PortraitsByPerminder",
   "BasePath": "_content/PortraitsByPerminder",
   "Mode": "Default",
@@ -283,6 +283,25 @@
       "OriginalItemSpec": "wwwroot/img/bike.svg"
     },
     {
+      "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/gallery/DSC01876-Edit-2.jpg",
+      "SourceId": "PortraitsByPerminder",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/",
+      "BasePath": "_content/PortraitsByPerminder",
+      "RelativePath": "img/gallery/DSC01876-Edit-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/gallery/DSC01876-Edit-2.jpg"
+    },
+    {
       "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/icon-512.png",
       "SourceId": "PortraitsByPerminder",
       "SourceType": "Discovered",
@@ -490,6 +509,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/pizzas/salad.jpg"
+    },
+    {
+      "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/portraitslogo.svg",
+      "SourceId": "PortraitsByPerminder",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/",
+      "BasePath": "_content/PortraitsByPerminder",
+      "RelativePath": "img/portraitslogo.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/portraitslogo.svg"
     },
     {
       "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/user.svg",

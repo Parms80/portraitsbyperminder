@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets/img/bike.svg"
     },
     {
+      "Id": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/gallery/DSC01876-Edit-2.jpg",
+      "PackagePath": "staticwebassets/img/gallery/DSC01876-Edit-2.jpg"
+    },
+    {
       "Id": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/icon-512.png",
       "PackagePath": "staticwebassets/img/icon-512.png"
     },
@@ -99,6 +103,10 @@
     {
       "Id": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/pizzas/salad.jpg",
       "PackagePath": "staticwebassets/img/pizzas/salad.jpg"
+    },
+    {
+      "Id": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/portraitslogo.svg",
+      "PackagePath": "staticwebassets/img/portraitslogo.svg"
     },
     {
       "Id": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/user.svg",
