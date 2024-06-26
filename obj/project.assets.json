@@ -1207,9 +1207,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/BlazingPizza.csproj",
-      "projectName": "BlazingPizza",
-      "projectPath": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/BlazingPizza.csproj",
+      "projectUniqueName": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/PortraitsByPerminder.csproj",
+      "projectName": "PortraitsByPerminder",
+      "projectPath": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/PortraitsByPerminder.csproj",
       "packagesPath": "/Users/permindersuman/.nuget/packages/",
       "outputPath": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/",
       "projectStyle": "PackageReference",

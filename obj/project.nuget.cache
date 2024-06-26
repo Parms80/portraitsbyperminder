@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37PXkrZNwQ7m/zYPPldRO893/sHFWi7sEdSP8uxI/iy3UFAOeNV/QlLs1h5o4S38bnEPaTNo0pzxm10ZCjyOFw==",
+  "dgSpecHash": "+d9X8p41knVx2OYwrg6XJkNz1h8df38ZOi/T0DriIu5kGcgxTlHB6if9RVw5HqbmOFu5k2dBt0N8rx99TZdJUA==",
   "success": true,
-  "projectFilePath": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/BlazingPizza.csproj",
+  "projectFilePath": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/PortraitsByPerminder.csproj",
   "expectedPackageFiles": [
     "/Users/permindersuman/.nuget/packages/microsoft.data.sqlite.core/6.0.8/microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "/Users/permindersuman/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",

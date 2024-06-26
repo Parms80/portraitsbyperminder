@@ -94,7 +94,6 @@
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/BlazingPizza.MvcApplicationPartsAssemblyInfo.cache
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/BlazingPizza.RazorAssemblyInfo.cache
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/BlazingPizza.RazorAssemblyInfo.cs
-/Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/BlazingPizza.sourcelink.json
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/staticwebassets.build.json
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/staticwebassets.development.json
 /Users/permindersuman/Development/DotNet/portraitsbyperminder/obj/Debug/net6.0/staticwebassets/msbuild.BlazingPizza.Microsoft.AspNetCore.StaticWebAssets.props
