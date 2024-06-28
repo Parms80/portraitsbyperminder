@@ -756,3 +756,27 @@ input[type=range] {
         transform: translateX(500px);
     }
 }
+
+.photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo-item {
+    width: 200px;
+    margin: 10px;
+    text-align: centre;
+}
+
+.photo-img {
+    width: 100%;
+    height: auto;
+}
+
+.photo-title {
+    font-weight: bold;
+}
+
+.photo-description {
+    font-style: italic;
+}

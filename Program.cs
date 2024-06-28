@@ -1,6 +1,7 @@
 using PortraitsByPerminder.Data;
 using PortraitsByPerminder.Services;
 using Microsoft.Extensions.Logging;
+using PortraitsByPerminder.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddHttpClient();
 builder.Services.AddSqlite<PizzaStoreContext>("Data Source=pizza.db");
 builder.Services.AddScoped<OrderState>();
+builder.Services.AddScoped<PhotoService>();
 
 // Add logging
 builder.Logging.ClearProviders();

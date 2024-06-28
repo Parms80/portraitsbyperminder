@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YsH5eXSU9/TKJjKZnjp58DN53XPv640QLtqg2kURwz4=",
+  "Hash": "1qmEbU6e/DL7b7wl4JsBlkmRjIEzxDDXFDXN5ifkFm0=",
   "Source": "PortraitsByPerminder",
   "BasePath": "_content/PortraitsByPerminder",
   "Mode": "Default",
@@ -283,12 +283,12 @@
       "OriginalItemSpec": "wwwroot/img/bike.svg"
     },
     {
-      "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/gallery/DSC01876-Edit-2.jpg",
+      "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/gallery/photo1.jpg",
       "SourceId": "PortraitsByPerminder",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/",
       "BasePath": "_content/PortraitsByPerminder",
-      "RelativePath": "img/gallery/DSC01876-Edit-2.jpg",
+      "RelativePath": "img/gallery/photo1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/gallery/DSC01876-Edit-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/gallery/photo1.jpg"
     },
     {
       "Identity": "/Users/permindersuman/Development/DotNet/portraitsbyperminder/wwwroot/img/icon-512.png",
