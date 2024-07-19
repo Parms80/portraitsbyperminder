@@ -1,18 +1,26 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using PortraitsByPerminder.Model;
+using PortraitsByPerminder.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace PortraitsByPerminder.Services
 {
     public class PhotoService
     {
-        public List<Model.Photo> GetPhotos()
+        private readonly PhotoContext _photoContext;
+
+        public PhotoService(PhotoContext photoContext)
         {
-            return new List<Model.Photo>()
-            {
-                new Model.Photo { Url = "img/gallery/photo1.jpg", Title = "Girl in black dress", Description = "Girl in black dress"}
-            };
+            _photoContext = photoContext;
+        }
+    
+        public async Task<List<Photo>> GetPhotosAsync()
+        {
+            return await _photoContext.Photos.ToListAsync();
+        }
+
+        public async Task<Photo> GetPhotoByIdAsync(int id)
+        {
+            return await _photoContext.Photos.FindAsync(id);
         }
     }
 }

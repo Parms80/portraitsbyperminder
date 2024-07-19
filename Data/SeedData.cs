@@ -67,4 +67,21 @@ public static class SeedData
         db.Specials.AddRange(specials);
         db.SaveChanges();
     }
+
+     public static void InitializePhotoDb(PhotoContext db)
+        {
+            var photos = new Photo[]
+            {
+                new Photo
+                {
+                    Url = "img/gallery/photo1.jpg",
+                    Title = "Girl In Black Dress",
+                    Description = "Girl wearing a black dress"
+                },
+                // Add more photos as needed
+            };
+
+            db.Photos.AddRange(photos);
+            db.SaveChanges();
+        }
 }

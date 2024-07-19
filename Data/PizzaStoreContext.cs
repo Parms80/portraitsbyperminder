@@ -5,7 +5,7 @@ namespace PortraitsByPerminder.Data;
 
 public class PizzaStoreContext : DbContext
 {
-    public PizzaStoreContext(DbContextOptions options) : base(options)
+    public PizzaStoreContext(DbContextOptions<PizzaStoreContext> options) : base(options)
     {
     }
 
